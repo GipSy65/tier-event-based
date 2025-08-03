@@ -8,7 +8,7 @@ Web application displaying events based on user tier levels using Next.js 14, Cl
 
 ## Live Demo
 
-🔗 **Application:** https://your-app.vercel.app
+🔗 **Application:** https://your-app.vercel.app1`
 
 ## Tech Stack
 
@@ -121,21 +121,4 @@ Use tier management buttons on dashboard to test different access levels:
 - Use tier buttons to switch between: free, silver, gold, platinum
 - Visit events page to see filtered results
 
-## Project Structure
 
-src/
-├── app/
-│ ├── auth/login/[[...rest]]/page.jsx
-│ ├── dashboard/page.jsx
-│ ├── events/page.jsx
-│ ├── layout.jsx
-│ └── page.jsx
-├── components/
-│ ├── layout/Navbar.jsx
-│ └── events/EventCard.jsx
-├── hooks/
-│ └── useUserTier.js
-├── lib/
-│ ├── constants.js
-│ ├── supabase.js
-│ └── utils.js
