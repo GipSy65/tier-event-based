@@ -8,7 +8,7 @@ Web application displaying events based on user tier levels using Next.js 14, Cl
 
 ## Live Demo
 
-🔗 **Application:** https://your-app.vercel.app1`
+🔗 **Application:** https://tier-event-based.vercel.app/`
 
 ## Tech Stack
 
